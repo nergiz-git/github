@@ -226,3 +226,4 @@ nav .date {
         height: auto;
     }  
 }
+@media screen and (min-width: 375px) and (max-width: 834px)
